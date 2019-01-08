@@ -18,6 +18,6 @@ fun a(): String {
 
 
 fun b(): String {
-    println("This is a method!")
+    println("This is a method!!!")
     return "method"
 }
