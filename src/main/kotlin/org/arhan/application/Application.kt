@@ -16,8 +16,3 @@ fun a(): String {
     return "method"
 }
 
-
-fun b(): String {
-    println("This is a method!!!")
-    return "method"
-}
