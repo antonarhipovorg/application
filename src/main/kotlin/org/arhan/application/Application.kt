@@ -11,12 +11,6 @@ fun main(args: Array<String>) {
     runApplication<Application>(*args)
 }
 
-fun a(): String {
-    println("This is a method")
-    return "method"
-}
-
-
 fun b(): String {
     println("This is a method!!!")
     return "method"
