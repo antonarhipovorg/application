@@ -11,11 +11,9 @@ fun main(args: Array<String>) {
     runApplication<Application>(*args)
 }
 
-fun a(): String {
-    println("This is a method")
-    return "method"
-}
-
+fun zzz() = "zzz"
+fun yyy() = "yyy"
+fun zzz() = "xxx"
 
 fun b(): String {
     println("This is a method!!!")
