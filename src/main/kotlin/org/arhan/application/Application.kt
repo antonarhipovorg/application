@@ -10,3 +10,7 @@ fun main(args: Array<String>) {
     println("Start the application!")
     runApplication<Application>(*args)
 }
+
+fun aaa() = "aaa"
+fun bbb() = "bbb"
+fun ccc() = "ccc"
