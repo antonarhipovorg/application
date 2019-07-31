@@ -14,3 +14,5 @@ fun main(args: Array<String>) {
 fun aaa() = "aaa"
 fun bbb() = "bbb"
 fun ccc() = "ccc"
+
+fun blah() = "asdaSD"
